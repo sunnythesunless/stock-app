@@ -3,7 +3,6 @@
 // TradingViewWidget.jsx
 import React, {useRef, memo } from 'react';
 import useTradingViewWidget from './hooks/useTradingViewWidget';
-import { Heading3 } from 'lucide-react';
 import { cn } from '@/lib/utils';
 
 interface TradingViewWidgetProps {
